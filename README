@@ -1,0 +1,5 @@
+Lightweight package providing a monadic parsec and commonly useful parser combinators.
+
+Not only suitable on String but also all other types which are instance of Stream.
+
+Out of box expression operators associativity/precedence support.
